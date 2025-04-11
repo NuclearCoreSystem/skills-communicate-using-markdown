@@ -19,4 +19,12 @@ int main() {
   cout << "Good Morning, World!" << std::endl;
   return 0;
 }
+```
 
+```javascript
+var myVar = "*imagine Dr.Stone opening 1 here*";
+```
+
+- [x] Create Pages
+- [x] Become a known dude on github
+- [ ] Portfolio?  
